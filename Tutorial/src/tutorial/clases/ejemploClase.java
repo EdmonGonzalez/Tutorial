@@ -10,5 +10,6 @@ package tutorial.clases;
  * @author Edmundo
  */
 public class ejemploClase {
+    int desdeVisualStudioCode=0;
     
 }
